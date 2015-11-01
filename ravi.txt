@@ -1,7 +1,1 @@
-My second file
-
-My third file
-
-My forth file
-
-This is edit on branch
+Removed all the lines from this file.
