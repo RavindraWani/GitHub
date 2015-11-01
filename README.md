@@ -1,3 +1,2 @@
 # GitHub
-This new file addded
-Edited..
+I am testing GitHub Commands...learning with charm :)
