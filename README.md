@@ -1,8 +1,5 @@
 # GitHub
-I am testing GitHub Commands...learning with charm :)
+Learning GitHub commands...
 
-Refered following websites for it
-
-https://www.siteground.com/tutorials/git/commands.htm
-
-https://confluence.atlassian.com/stash/basic-git-commands-278071958.html#notfound
+Reference link:
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
